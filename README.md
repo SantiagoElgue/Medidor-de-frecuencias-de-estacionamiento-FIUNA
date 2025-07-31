@@ -1,10 +1,10 @@
 Proyecto LPV
 
 Integrantes
-- Santiago
+- Bobazo
 - Hernán
 - Victor
-- Alimaña
+- Ximena
 
 Componentes
 -Sensores
