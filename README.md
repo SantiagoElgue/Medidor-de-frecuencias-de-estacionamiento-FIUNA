@@ -8,3 +8,4 @@ Integrantes
 
 Componentes
 -Sensores
+-Compu
